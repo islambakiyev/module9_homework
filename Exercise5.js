@@ -24,6 +24,8 @@
 (использовать localStorage).
 */
 
+// У меня ошибка в этом задании. Не срабатывает условие, но я так и не смог понять в чем причина. Картинки выводятся.
+
 let addTime = document.getElementById('button');
 const images = document.getElementById('output');
 const error = document.getElementById('error');
